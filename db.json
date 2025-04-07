@@ -1,0 +1,31 @@
+{
+  "Tasks": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "title": "Software Engineer",
+      "description": "Experienced in full-stack development with a focus on JavaScript and React.",
+      "due_date": "2025-04-10",
+      "priority": "High",
+      "status": "In Progress"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "title": "Project Manager",
+      "description": "Skilled in agile methodologies and team leadership.",
+      "due_date": "2025-04-15",
+      "priority": "Medium",
+      "status": "Pending"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Davis",
+      "title": "UX Designer",
+      "description": "Passionate about user-centered design and accessibility.",
+      "due_date": "2025-04-20",
+      "priority": "Low",
+      "status": "Completed"
+    }
+  ]
+}
