@@ -5,6 +5,7 @@ const Home=()=>{
     <>
       
       <h1>Home</h1>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, commodi.</p>
 
       <h5>
         {/* Replace placeholder text with meaningful content */}
